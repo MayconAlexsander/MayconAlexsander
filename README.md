@@ -9,4 +9,4 @@
     - mayconalexsander@hotmail.com --> Sempre chega recibo dos jogos que eu resgato, então pode mandar aí também que é sucesso.
     - (84) 98860-4644              --> Só WhatsApp, onde eu moro não funciona sinal de telefone :(
 
-#### É isso aí, vamo a todo gás porque foguete não tem ré🚀
+#### É isso aí, avançando a todo gás porque foguete não tem ré🚀
