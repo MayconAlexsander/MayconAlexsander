@@ -13,4 +13,18 @@
     - 📩 mayconalexsander@hotmail.com --> Sempre chega recibo dos jogos que eu resgato, então pode mandar aí também que é sucesso.
     - 📞 (84) 98860-4644              --> Só WhatsApp, onde eu moro não funciona sinal de telefone :(
 
-#### É isso aí, foco porque foguete não tem ré🚀
+#### É isso aí👋!
+
+<p align="left">
+  <a href="https://www.instagram.com/maycon_alexsander" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=FF00FF&link=https://www.instagram.com/maycon_alexsander"/>
+  </a>
+  
+  <a href="https://twitter.com/mayconalek" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=1293D2&link=https://twitter.com/mayconalek"/>
+  </a>
+    
+  <a href="https://www.linkedin.com/in/maycon-alexsander-25a498219" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=1DA1F2&link=https://www.linkedin.com/in/maycon-alexsander-25a498219"/>
+  </a>
+</p>
