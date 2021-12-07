@@ -16,15 +16,15 @@
 #### É isso aí👋!
 
 <p align="left">
-  <a href="https://www.instagram.com/maycon_alexsander" alt="Instagram">
+  <a href="https://www.instagram.com/maycon_alexsander" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=FF00FF&link=https://www.instagram.com/maycon_alexsander"/>
   </a>
   
-  <a href="https://twitter.com/mayconalek" alt="Twitter">
+  <a href="https://twitter.com/mayconalek" target="_blank" alt="Twitter">
     <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=1293D2&link=https://twitter.com/mayconalek"/>
   </a>
     
-  <a href="https://www.linkedin.com/in/maycon-alexsander-25a498219" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/maycon-alexsander-25a498219" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=1DA1F2&link=https://www.linkedin.com/in/maycon-alexsander-25a498219"/>
   </a>
 </p>
