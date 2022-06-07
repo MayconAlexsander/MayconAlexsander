@@ -29,4 +29,8 @@
   <a href="https://www.linkedin.com/in/mayconalexsander" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=1DA1F2"/>
   </a>
+    
+  <a href="https://codepen.io/mayconalexsander" target="_blank" alt="Codepen">
+    <img src="https://img.shields.io/badge/-Codepen-1C1C1C?style=for-the-badge&logo=Codepen&logoColor=FFFFFF"/>
+  </a>
 </p>
