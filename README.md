@@ -6,7 +6,7 @@
 
 - 🎯 De Extremoz/RN, natural de Natal/RN;
 
-- 🎯 No momento estou sem ocupação, mas estou sempre codando alguma coisa pra não perder o ritmo de aprendizado;
+- 🎯 Cursando Análise e Desenvolvimento de Sistemas;
 
 - 🎯 Hoje em dia estou aprendendo bastante HTML, CSS e JavaScript... e também explorando o NodeJS (Sou do Back-End💪);
 
