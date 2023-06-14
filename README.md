@@ -1,19 +1,18 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração de um laptop">
 
 ## Salve salve, muito bem-vindos(as) 👋
 
-#### Aqui vão algumas informações sobre mim:
+#### Me conheça👐:
 
 - 🎯 De Extremoz/RN, natural de Natal/RN;
 
 - 🎯 Cursando Análise e Desenvolvimento de Sistemas;
 
-- 🎯 Hoje em dia estou aprendendo bastante HTML, CSS e JavaScript... e também explorando o NodeJS (Sou do Back-End💪);
+- 🎯 Aprendendo HTML, CSS e JavaScript... e também explorando o NodeJS (Sou do Back-End💪);
 
 - 📫 Você pode me contatar em:
-    - 📩 mayconalexm@gmail.com        --> Estou sempre apagando spam na caixa de entrada, então não vai demorar muito para responder.
-    - 📩 mayconalexsander@hotmail.com --> Sempre chega recibo dos jogos que eu resgato, então pode mandar aí também que é sucesso.
-    - 📞 (84) 98860-4644              --> Só WhatsApp, onde eu moro não funciona sinal de telefone :(
+    - 📩 mayconalexm@gmail.com        --> Estou sempre apagando spam na caixa de entrada, não vai demorar muito para responder.
+    - 📩 mayconalexsander@hotmail.com --> Sempre chega recibo dos jogos que eu resgato, pode mandar aí também que é sucesso.
 
 #### É isso aí👋!
 
