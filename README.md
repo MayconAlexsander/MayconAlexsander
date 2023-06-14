@@ -18,7 +18,7 @@
 #### É isso aí👋!
 
 <p align="left">
-  <a href="https://www.instagram.com/maycon_alexsander" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/maico_alek" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=FF00FF"/>
   </a>
   
