@@ -10,9 +10,9 @@
 
 - 🎯 Aprendendo HTML, CSS e JavaScript... e também explorando o NodeJS (Sou do Back-End💪);
 
-- 📫 Você pode me contatar em:
-    - 📩 mayconalexm@gmail.com        --> Estou sempre apagando spam na caixa de entrada, não vai demorar muito para responder.
-    - 📩 mayconalexsander@hotmail.com --> Sempre chega recibo dos jogos que eu resgato, pode mandar aí também que é sucesso.
+##### Você pode me contatar em:
+- 📩 mayconalexm@gmail.com        --> Estou sempre apagando spam na caixa de entrada, não vai demorar muito para responder.
+- 📩 mayconalexsander@hotmail.com --> Sempre chega recibo dos jogos que eu resgato, pode mandar aí também que é sucesso.
 
 #### É isso aí👋!
 
