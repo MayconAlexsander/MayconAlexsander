@@ -4,11 +4,11 @@
 
 #### Me conheça👐:
 
-- 🎯 De Extremoz/RN, natural de Natal/RN;
+- 🎯 De Natal/RN;
 
 - 🎯 Cursando Análise e Desenvolvimento de Sistemas;
 
-- 🎯 Estudando HTML, CSS, JavaScript e Figma;
+- 🎯 Estudando Desenvolvimento Web e UI/UX Design;
 
 ##### Você pode me contatar em:
 - 📩 mayconalexm@gmail.com
@@ -22,7 +22,7 @@
   </a>
   
   <a href="https://twitter.com/mayconalek" target="_blank" alt="Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=1293D2"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
     
   <a href="https://www.linkedin.com/in/mayconalexsander" target="_blank" alt="LinkedIn">
