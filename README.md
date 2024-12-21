@@ -1,17 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração de um laptop">
 
-## Salve salve, muito bem-vindos(as) 👋
+## Olá, muito bem-vindos(as) 👋
 
 #### Me conheça👐:
 
 - 🎯 De Natal/RN;
 
-- 🎯 Cursando Análise e Desenvolvimento de Sistemas;
+- 🎯 Cursando Análise e Desenvolvimento de Sistemas (3º período);
 
-- 🎯 Estudando Desenvolvimento Web e UI/UX Design;
+- 🎯 Estudando Desenvolvimento Web, UI/UX Design e Treinamento de IA;
 
 ##### Você pode me contatar em:
-- 📩 mayconalexm@gmail.com
 - 📩 mayconalexsander@hotmail.com
 
 #### É isso aí👋!
